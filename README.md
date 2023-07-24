@@ -21,3 +21,4 @@ PyMonitor 1.3.2b for Raspberry Pi by Surce Beats is a powerful Python script des
 
 Whether you're a developer, hobbyist, or enthusiast, PyMonitor empowers you to efficiently manage Docker containers on your Raspberry Pi, ensuring optimal performance and enhancing your overall computing experience.
 
+Make it work with a cron and you're done!
