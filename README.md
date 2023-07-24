@@ -1,6 +1,8 @@
 # PyMonitor
 PyMonitor 1.3.2b for Raspberry Pi by Surce Beats is a powerful Python script designed to efficiently monitor and manage Docker containers on your Raspberry Pi device. With a feature-rich set of functionalities, PyMonitor offers a comprehensive solution for container management:
 
+# Features
+
 1.- Temperature-based Control: PyMonitor intelligently monitors the CPU temperature and dynamically adjusts container states based on predefined thresholds. It ensures optimal performance and prevents overheating.
 
 2.- Download Speed Monitoring: The script keeps a close eye on the download speed and takes appropriate actions, ensuring smooth operation when data transfer rates vary.
