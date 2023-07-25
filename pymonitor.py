@@ -13,7 +13,7 @@ import docker
 sleeptime = 1
 
 # Get the directory from where the script will be launched (MAY NEED TO BE MODIFIED)
-run_dir = "/home/surce/Scripts/PyMonitor"
+run_dir = "/home/pi/scripts/pymonitor"
 
 #PyMonitor Version for logging
 pyversion = "1.3.2b"
