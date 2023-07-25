@@ -2,6 +2,7 @@
 PyMonitor 1.3.2b for Raspberry Pi by Surce is a powerful Python script designed to efficiently monitor and manage Docker containers on your Raspberry Pi device. With a feature-rich set of functionalities, PyMonitor offers a comprehensive solution for container management.
 
 *Make sure to modify the following line in to suit your needs in pymonitor.py
+
 run_dir = "/home/pi/scripts/pymonitor"
 
 # Features
